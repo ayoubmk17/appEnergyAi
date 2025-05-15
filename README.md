@@ -17,7 +17,11 @@ Les données utilisées sont générées synthétiquement dans le code, avec des
 
 ## Installation et utilisation
 
-1. Cloner ce dépôt :
+1. Pour installer les dépendances pourront lancer :
+
+pip install -r requirements.txt
+
+2. Cloner ce dépôt :
 
 ```bash
 git clone https://github.com/USERNAME/REPO.git
